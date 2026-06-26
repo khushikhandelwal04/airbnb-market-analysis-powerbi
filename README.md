@@ -57,6 +57,6 @@ from **2008 to 2020**, built to uncover pricing patterns, host performance, and 
 
 ## 🖼️ Preview
 
-![Overview](overview.png)
-![Ratings](ratings.png)
-![Reviews](reviews.png)
+![Overview](Overview.png)
+![Ratings](Rating.png)
+![Reviews](Reviews.png)
