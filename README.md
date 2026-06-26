@@ -49,11 +49,9 @@ from **2008 to 2020**, built to uncover pricing patterns, host performance, and 
 ## 📁 Files in This Repo
 | File | Description |
 |------|-------------|
-| `airbnb_dashboard.pbix` | Power BI project file |
-| `airbnb_data.csv` | Cleaned dataset used in the dashboard |
-| `overview.png` | Dashboard — Overview page |
-| `ratings.png` | Dashboard — Ratings page |
-| `reviews.png` | Dashboard — Reviews & Trust page |
+| `Overview.png` | Dashboard — Overview page |
+| `Rating.png` | Dashboard — Ratings page |
+| `Reviews.png` | Dashboard — Reviews & Trust page |
 
 ---
 
